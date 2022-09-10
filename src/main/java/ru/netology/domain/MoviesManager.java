@@ -22,7 +22,7 @@ public class MoviesManager {
         movies = tmp;
     }
 
-    public String[] findAll() {
+    String[] findAll() {
         return movies;
     }
 
